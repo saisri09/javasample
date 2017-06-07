@@ -23,7 +23,7 @@ public class HelloWorld {
         System.out.println("Hello, World");
 		System.out.println("Hello, Hyderabad");
 System.out.println("Hello,welocome to india");
-ystem.out.println("Hello, World");
+System.out.println("Hello, World");
 		System.out.println("Hello, Hyderabad");
     }
 
